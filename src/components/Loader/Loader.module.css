@@ -5,7 +5,7 @@
 .centerVerticalLoader{
   display: flex;
   justify-content: center;
-  margin-top: 25%;
+  margin:0 auto;
 }
 
 .centerLoader{
